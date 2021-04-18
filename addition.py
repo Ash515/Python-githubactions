@@ -4,3 +4,4 @@ def sum(a,b):
    return c
 
 print(sum(10,20))
+print(sum(60,80))
